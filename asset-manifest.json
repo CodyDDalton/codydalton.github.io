@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/codydalton/static/css/main.f855e6bc.css",
+    "main.js": "/codydalton/static/js/main.04c2b5f0.js",
+    "static/js/787.d5fa61d8.chunk.js": "/codydalton/static/js/787.d5fa61d8.chunk.js",
+    "static/media/logo.svg": "/codydalton/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/codydalton/index.html",
+    "main.f855e6bc.css.map": "/codydalton/static/css/main.f855e6bc.css.map",
+    "main.04c2b5f0.js.map": "/codydalton/static/js/main.04c2b5f0.js.map",
+    "787.d5fa61d8.chunk.js.map": "/codydalton/static/js/787.d5fa61d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.04c2b5f0.js"
+  ]
+}
